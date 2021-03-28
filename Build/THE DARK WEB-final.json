@@ -1,0 +1,17 @@
+{
+"companyName": "DefaultCompany",
+"productName": "THE DARK",
+"productVersion": "0.1",
+"dataUrl": "THE DARK WEB-final.data.unityweb",
+"wasmCodeUrl": "THE DARK WEB-final.wasm.code.unityweb",
+"wasmFrameworkUrl": "THE DARK WEB-final.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "THE DARK WEB-final.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.20f1"
+}
